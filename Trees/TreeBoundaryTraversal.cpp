@@ -1,4 +1,8 @@
 class Solution {
+<<<<<<< HEAD
+=======
+    
+>>>>>>> 4e1c229247b7feb1250f0f341c75dd8f01cd61a9
     private:
     void leftBoundary(vector<int> &ans, Node *root){
         if(!root)
